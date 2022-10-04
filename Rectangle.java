@@ -13,7 +13,7 @@ public class Rectangle
         width = rectWidth;
         height = rectHeight;
     }
-    
+    //hi zack this is a test
     /**
      * This method computes and prints the
      * area of the Rectangle.
